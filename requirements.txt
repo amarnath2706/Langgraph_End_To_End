@@ -21,3 +21,5 @@ youtube_search
 yfinance
 ipykernel
 streamlit
+duckduckgo-search
+yfinance
